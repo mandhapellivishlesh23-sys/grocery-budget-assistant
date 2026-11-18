@@ -1,0 +1,11 @@
+name,category,price,quantity,date
+Mangoes,produce,150,2,2026-11-10
+,dairy,50,1,2026-11-10
+Butter,dairy,-20,1,2026-11-10
+Jam,pantry,abc,1,2026-11-10
+Ketchup,sauces,90,1,2026-11-10
+Noodles,pantry,15,0,2026-11-10
+Soap,household,40,2,10/11/2026
+Cereal,pantry,300,1,2031-01-01
+Lemons,produce,Rs. 10,6,2026-11-11
+Honey,pantry,320,1.5,2026-11-11

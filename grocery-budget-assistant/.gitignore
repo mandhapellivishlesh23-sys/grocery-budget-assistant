@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+# your personal data and generated files
+data/grocery_data.json
+data/*.corrupt-*
+data/import_errors.log
+exports/*
+!exports/.gitkeep
